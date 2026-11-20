@@ -18,6 +18,6 @@ An interactive map of every named water tile in **Supremacy: World War III**: 1,
 - Coastlines are slightly simplified to keep the file small.
 
 ## Credit
-Made by **Caleb Vorwerk**.
+Made by **pearljamfever**.
 
 Unofficial fan project. Not affiliated with or endorsed by Bytro Labs or Stillfront. Supremacy: World War III and its map data are © Bytro Labs.
